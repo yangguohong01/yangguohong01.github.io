@@ -106,9 +106,9 @@
 <h2 id="四、配置域名"><a href="#四、配置域名" class="headerlink" title="四、配置域名"></a>四、配置域名</h2><p>本步骤是为了配置自己的域名，如果没有可以省略。</p>
 <h3 id="1-申请域名"><a href="#1-申请域名" class="headerlink" title="1.申请域名"></a>1.申请域名</h3><p>这里就不介绍了，详情百度，建议阿里云购买，腾讯云也可以</p>
 <p>如果有域名了就不多说了。这里就直接去购买域名的地方去解析域名。</p>
-<p><img src="/Users/kobe/Documents/Typora/Typora%E5%9B%BE%E7%89%87/2022070300-%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.png" alt="image-20220703005530661"></p>
+<p><img data-src="/Users/kobe/Documents/Typora/Typora%E5%9B%BE%E7%89%87/2022070300-%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90.png" alt="image-20220703005530661"></p>
 <h3 id="2-pages自定义"><a href="#2-pages自定义" class="headerlink" title="2.pages自定义"></a>2.pages自定义</h3><p>在仓库设置，找到pages 输入自己的域名</p>
-<p><img src="/Users/kobe/Documents/Typora/Typora%E5%9B%BE%E7%89%87/202207030058-githubPages.png" alt="image-20220703005810069"></p>
+<p><img data-src="/Users/kobe/Documents/Typora/Typora%E5%9B%BE%E7%89%87/202207030058-githubPages.png" alt="image-20220703005810069"></p>
 <h3 id="3-配置CNMAE文件"><a href="#3-配置CNMAE文件" class="headerlink" title="3.配置CNMAE文件"></a>3.配置CNMAE文件</h3><p>在本地你的博客文件夹中，找到<code>source</code>目录，在source目录下新建一个名为<code>CNAME</code>的无后缀文件（可以记事本打开，另存为所有文件），内容是你的域名（不含www），如下：</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">abcdxxxx.com</span><br></pre></td></tr></table></figure>
 
